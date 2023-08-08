@@ -2,7 +2,7 @@
 
 Calculate Keccak-256 hash of a given hexadecimal code using Python and the ```pycryptodome``` library.
 
-Please note that you need to install ```pycryptodome``` library before using with the following code:
+__Note:__ You need to install ```pycryptodome``` library before using with the following code:
 
 ```bash
 pip install pycryptodome
